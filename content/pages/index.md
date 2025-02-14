@@ -12,10 +12,10 @@ sections:
           fontWeight: 700
     subtitle: Subtitle goes here
     text: >
-      Our mission is to bring the transformative hope of Jesus Christ to those
+      *"Our mission is to bring the transformative hope of Jesus Christ to those
       experiencing hardship. We believe that the greatest hope in this world is
       found in salvation through Christ, and we are committed to sharing His
-      love through outreach and the power of the Gospel.
+      love through outreach and the power of the Gospel."*
     actions:
       - label: Get started
         altText: ''
