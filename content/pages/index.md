@@ -96,10 +96,10 @@ sections:
               borderRadius: x-large
       - title: Compassion
         subtitle: '"Serving with love, building together"'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          We believe in creating a family where everyone is seen, valued, and
+          cared for. Through acts of kindness, discipleship and fellowship, we
+          foster a community of restoration and belonging.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
