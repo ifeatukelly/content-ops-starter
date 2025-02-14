@@ -69,8 +69,9 @@ sections:
         title: Christ
         subtitle: '"Our foundation is Jesus"'
         text: >
-          Jesus is at the heart of what we do. We want to share the love of
-          Christ with those in need.
+          Everything we do is rooted in the Gospel. Christ's love compels us to
+          serve, bringing hope to those in need through both spiritual and
+          practical support.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
