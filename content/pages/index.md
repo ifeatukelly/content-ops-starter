@@ -41,7 +41,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: The living hope project
+      label: LHP
       color: text-primary
       type: Badge
     elementId: ''
