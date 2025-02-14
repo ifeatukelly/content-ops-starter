@@ -82,10 +82,9 @@ sections:
     items:
       - title: Volunteer Worker
         subtitle: Sales
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Do you want to make an impact in our society? Join us as a hands-on
+          volunteer.
         colors: bg-neutral-fg-dark
         styles:
           self:
