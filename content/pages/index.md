@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: The Living Hope Project
+      text: THE LIVING HOPE PROJECT
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
