@@ -26,7 +26,7 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: See Tutorials
+      - label: Upcoming Events
         altText: ''
         url: /
         showIcon: true
