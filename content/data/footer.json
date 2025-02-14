@@ -68,7 +68,7 @@
         },
         {
             "altText": "Email link",
-            "url": "/",
+            "url": "mailto:thelivinghopeproject@outlook.com",
             "icon": "mail",
             "type": "Social"
         }
