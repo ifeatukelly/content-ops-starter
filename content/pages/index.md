@@ -66,7 +66,7 @@ sections:
     subtitle: Subtitle goes here
     items:
       - type: FeaturedItem
-        title: Christ
+        title: Christ-Centred
         subtitle: '"Our foundation is Jesus"'
         text: >
           Everything we do is rooted in the Gospel. Christ's love compels us to
