@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           fontWeight: 700
-    subtitle: Subtitle goes here
+    subtitle: Bring Hope | Spread Truth | Serve with Love
     text: >
       *"Our mission is to bring the transformative hope of Jesus Christ to those
       experiencing hardship. We believe that the greatest hope in this world is
