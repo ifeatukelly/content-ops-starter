@@ -94,7 +94,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: Compassionate Community
+      - title: Compassion In Action
         subtitle: '"Serving with love, building together"'
         text: >
           We believe in creating a family where everyone is seen, valued, and
