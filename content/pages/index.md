@@ -67,7 +67,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Christ
-        subtitle: Numbers Done
+        subtitle: '"Our foundation is Jesus"'
         text: >
           Jesus is at the heart of what we do. We want to share the love of
           Christ with those in need.
