@@ -68,10 +68,9 @@ sections:
       - type: FeaturedItem
         title: Christ
         subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Jesus is at the heart of what we do. We want to share the love of
+          Christ with those in need.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
