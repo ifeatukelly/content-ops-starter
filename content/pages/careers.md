@@ -81,7 +81,7 @@ sections:
     subtitle: Subtitle goes here
     items:
       - title: Volunteer Worker
-        subtitle: Sales
+        subtitle: On-site Volunteer
         text: >
           Do you want to make an impact in our society? Join us as a hands-on
           volunteer.
