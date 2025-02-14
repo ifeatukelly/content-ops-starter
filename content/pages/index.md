@@ -17,7 +17,7 @@ sections:
       found in salvation through Christ, and we are committed to sharing His
       love through outreach and the power of the Gospel."*
     actions:
-      - label: Get started
+      - label: Get Involved
         altText: ''
         url: /
         showIcon: false
