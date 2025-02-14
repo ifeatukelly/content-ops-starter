@@ -121,10 +121,10 @@ sections:
         type: FeaturedItem
       - title: Commitment to Change
         subtitle: '"Transforming lives with consistency"'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          We are dedicated to consistency and perseverance in outreach. We
+          believe the Gospel has the power to renew hearts and uplift lives,
+          creating lasting impact in individuals and society.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
