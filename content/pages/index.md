@@ -12,9 +12,10 @@ sections:
           fontWeight: 700
     subtitle: Subtitle goes here
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Our mission is to bring the transformative hope of Jesus Christ to those
+      experiencing hardship. We believe that the greatest hope in this world is
+      found in salvation through Christ, and we are committed to sharing His
+      love through outreach and the power of the Gospel.
     actions:
       - label: Get started
         altText: ''
