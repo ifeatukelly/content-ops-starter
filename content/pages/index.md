@@ -6,7 +6,7 @@ sections:
     title:
       type: TitleBlock
       text: The Living Hope Project
-      color: text-neutral
+      color: text-dark
       styles:
         self:
           textAlign: center
