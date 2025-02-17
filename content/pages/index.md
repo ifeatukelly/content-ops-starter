@@ -9,7 +9,7 @@ sections:
       color: text-dark
       styles:
         self:
-          textAlign: right
+          textAlign: center
           fontWeight: 700
     subtitle: Bringing Hope | Spreading Truth | Serving with Love
     items:
