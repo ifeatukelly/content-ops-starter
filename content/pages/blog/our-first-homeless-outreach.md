@@ -39,7 +39,7 @@ bottomSections:
           explicabo.
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/LOGO The Living Hope Project.jpg
           altText: Featured item
           styles:
             self:
