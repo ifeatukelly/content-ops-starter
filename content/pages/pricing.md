@@ -16,7 +16,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Open positions
+      text: Want to Get Involved?
       color: text-dark
       styles:
         self:
