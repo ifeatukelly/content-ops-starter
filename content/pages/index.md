@@ -14,7 +14,7 @@ sections:
     subtitle: Bringing Hope | Spreading Truth | Serving with Love
     items:
       - type: FeaturedItem
-        title: Account Executive
+        title: Our Mission
         subtitle: Sales
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
