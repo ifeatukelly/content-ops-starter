@@ -18,6 +18,17 @@
                 "iconPosition": "right",
                 "style": "primary",
                 "elementId": ""
+            },
+            {
+                "type": "Link",
+                "label": "See Tutorials",
+                "altText": "",
+                "url": "/about",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "primary",
+                "elementId": ""
             }
         ],
         "type": "FooterLinksGroup"
