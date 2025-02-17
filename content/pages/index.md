@@ -65,7 +65,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: THE LIVING HOPE PROJECT
+      text: The Living Hope Project
       color: text-dark
       styles:
         self:
