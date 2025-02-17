@@ -42,7 +42,7 @@
             },
             {
                 "label": "Get Involved",
-                "url": "/blog",
+                "url": "/getinvolved",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
