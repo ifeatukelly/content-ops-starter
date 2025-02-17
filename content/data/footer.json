@@ -10,7 +10,7 @@
         "links": [
             {
                 "type": "Link",
-                "label": "See Tutorials",
+                "label": "Home",
                 "altText": "",
                 "url": "/home",
                 "showIcon": false,
