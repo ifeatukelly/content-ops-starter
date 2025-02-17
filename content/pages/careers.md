@@ -224,7 +224,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Commitment to Change
-        subtitle: Faster
+        subtitle: '"Transforming lives with consistency"'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
