@@ -7,7 +7,19 @@
     "text": "Bringing Hope\n\nSpreading Truth\n\nServing with Love\n",
     "primaryLinks": {
         "title": "COMPANY",
-        "links": [],
+        "links": [
+            {
+                "type": "Link",
+                "label": "See Tutorials",
+                "altText": "",
+                "url": "/home",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "primary",
+                "elementId": ""
+            }
+        ],
         "type": "FooterLinksGroup"
     },
     "secondaryLinks": {
