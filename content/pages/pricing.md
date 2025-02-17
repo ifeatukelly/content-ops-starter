@@ -73,7 +73,7 @@ sections:
             justifyContent: center
     actions:
       - type: Button
-        label: Apply now
+        label: Register Interest
         url: /
         icon: arrowRight
         iconPosition: right
