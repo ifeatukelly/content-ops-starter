@@ -61,7 +61,7 @@ bottomSections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/SACHA LHP PROFILE COPY.jpeg
           altText: Business consulting
           elementId: ''
           styles:
