@@ -5,18 +5,17 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: THE LIVING HOPE PROJECT
+      text: The Living Hope Project
       color: text-dark
       styles:
         self:
           textAlign: center
-    subtitle: Section subtitle
+    subtitle: Bringing Hope | Spreading Truth | Serving with Love
     text: >
-      There are many variations of passages of Lorem Ipsum available, but the
-      majority have suffered alteration in some form, by injected humour, or
-      randomised words which don't look even slightly believable. If you are
-      going to use a passage of Lorem Ipsum, you need to be sure there isn't
-      anything embarrassing hidden in the middle of text.
+      *"Our mission is to bring the transformative hope of Jesus Christ to those
+      experiencing hardship. We believe that the greatest hope in this world is
+      found in salvation through Christ, and we are committed to sharing His
+      love through outreach and the power of the Gospel."*
     actions:
       - type: Button
         label: See open positions
@@ -47,6 +46,17 @@ sections:
         textAlign: center
       subtitle:
         textAlign: center
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-12
+          - pl-12
+          - pb-12
+          - pr-12
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
