@@ -21,7 +21,7 @@
             },
             {
                 "type": "Link",
-                "label": "See Tutorials",
+                "label": "About Us",
                 "altText": "",
                 "url": "/about",
                 "showIcon": false,
