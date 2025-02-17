@@ -16,7 +16,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Want to Get Involved?
+      text: Are You A Christian and Want to Get Involved?
       color: text-dark
       styles:
         self:
