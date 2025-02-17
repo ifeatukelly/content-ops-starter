@@ -97,7 +97,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Feature Item Two
+        title: Ifeatu Okafor
         tagline: ''
         subtitle: This is the item subtitle
         text: |
