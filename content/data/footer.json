@@ -71,7 +71,7 @@
             },
             {
                 "type": "Link",
-                "label": "Send email",
+                "label": "Send us an email",
                 "altText": "Play",
                 "url": "mailto:thelivinghopeproject@outlook.com",
                 "showIcon": true,
