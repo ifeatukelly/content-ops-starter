@@ -51,7 +51,7 @@ sections:
       - type: FeaturedItem
         title: Social Media Management
         tagline: ''
-        subtitle: Increase your reach
+        subtitle: '"Let us not love in word or in tongue, but in deed and in truth."'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
