@@ -14,7 +14,7 @@
                 "altText": "home page",
                 "url": "/home",
                 "showIcon": false,
-                "icon": "arrowRight",
+                "icon": "arrowDown",
                 "iconPosition": "right",
                 "style": "primary",
                 "elementId": ""
