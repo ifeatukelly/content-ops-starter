@@ -26,10 +26,11 @@ sections:
       - type: FeaturedItem
         title: Volunteer
         subtitle: Outreach and Minister
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |+
+          *   Active volunteer on our various outreaches
+
+          *   Minister to, and encourage, those who we encounter
+
         actions: []
         colors: bg-neutral-fg-dark
         styles:
