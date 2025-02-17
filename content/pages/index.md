@@ -78,7 +78,7 @@ sections:
         tagline: ''
         subtitle: ''
         text: >+
-          <div style="text-align: center">> *"Let us not love in word or in
+          <div style="text-align: center">## *"Let us not love in word or in
           tongue, but in deed and in truth" \~ 1 John 3:18*</div>
 
         actions: []
