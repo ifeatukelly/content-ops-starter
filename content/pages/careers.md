@@ -51,7 +51,7 @@ sections:
     title:
       type: TitleBlock
       text: Meet The Team
-      color: text-primary
+      color: text-dark
       styles:
         self:
           textAlign: center
