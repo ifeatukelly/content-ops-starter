@@ -30,7 +30,7 @@ bottomSections:
   - type: CarouselSection
     items:
       - type: FeaturedItem
-        title: Social Media Management
+        title: ''
         tagline: Feature 1
         subtitle: Increase your reach
         text: >-
