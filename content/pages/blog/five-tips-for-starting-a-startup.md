@@ -1,5 +1,5 @@
 ---
-title: 'Our First Homeless Outreach '
+title: 'An Evening of Hope: Our First Homeless Outreach'
 slug: five-tips-for-starting-a-startup
 date: '2025-01-25'
 excerpt: >-
