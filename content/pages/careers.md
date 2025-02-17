@@ -162,7 +162,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Key Benefits
+      text: Our Core Values
       color: text-dark
       styles:
         self:
