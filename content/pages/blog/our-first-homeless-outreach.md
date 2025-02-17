@@ -78,7 +78,7 @@ bottomSections:
               - pr-9
             textAlign: left
             borderRadius: large
-            flexDirection: col-reverse
+            flexDirection: col
             justifyContent: center
     variant: dots-nav
     colors: bg-light-fg-dark
