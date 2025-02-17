@@ -25,7 +25,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Volunteer
-        subtitle: Outreach and Minister
+        subtitle: 'What you will be doing:'
         text: |+
           *   Active volunteer on our various outreaches
 
