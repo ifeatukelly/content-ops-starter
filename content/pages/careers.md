@@ -172,10 +172,10 @@ sections:
       - type: FeaturedItem
         title: Christ-Centred Calling
         subtitle: '"Our foundation is Jesus"'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Everything we do is rooted in the Gospel. Christ's love compels us to
+          serve, bringing hope to those in need through both spiritual and
+          practical support.
         image:
           type: ImageBlock
           url: /images/icon1.svg
