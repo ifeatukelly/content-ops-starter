@@ -24,7 +24,7 @@ sections:
     subtitle: 'Here''s How:'
     items:
       - type: FeaturedItem
-        title: Account Executive
+        title: Volunteer
         subtitle: Sales
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
