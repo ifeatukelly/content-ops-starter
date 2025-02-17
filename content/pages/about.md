@@ -46,7 +46,7 @@ sections:
           His grace and guidance that I am able to step into this calling.
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/SACHA LHP PROFILE COPY.jpeg
           altText: Placeholder image
           styles:
             self:
