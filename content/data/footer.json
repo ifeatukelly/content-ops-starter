@@ -85,12 +85,6 @@
     },
     "socialLinks": [
         {
-            "altText": "Instagram link",
-            "url": "https://www.instagram.com/thelivinghopeproject?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
-            "icon": "instagram",
-            "type": "Social"
-        },
-        {
             "altText": "Email link",
             "url": "mailto:thelivinghopeproject@outlook.com",
             "icon": "mail",
