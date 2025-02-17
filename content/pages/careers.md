@@ -100,8 +100,23 @@ sections:
         title: Ifeatu Okafor
         tagline: ''
         subtitle: Co-Founder
-        text: |
-          Follow the tutorial to build your first awesome Netlify site.
+        text: >+
+          In 2018, I travelled to Nigeria with AIPA Irelamd, stepping into
+          villages where access to health care was scarce. As a 14 year old, I
+          remember seeing the desperation in people's eyes as they pushed
+          forward, forming long, restless queues to receive medication.  There
+          was a deep urgency, unlike anything that I had ever seen before. It
+          was in those moments that something deeper was planted in my heart —
+          more than just a desire to help; but a call to serve. Years later,
+          when I gave my life to Christ, the burden to serve my community grew
+          stronger. The hope and joy I found in Him wasn't something I could
+          keep to myself — I wanted to share it with those who were struggling,
+          searching or feeling forgotten. And so, the Living Hope Project was
+          born — not for my glory, but for His. This is His work, His mission,
+          and I am simply a vessel. My prayer is that through this ministry,
+          those who are lost, broken, or weary will find the same hope and joy
+          that changed my life.
+
         image:
           type: ImageBlock
           url: /images/abstract-feature2.svg
