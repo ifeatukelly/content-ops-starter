@@ -1,6 +1,6 @@
 ---
 title: Get Involved
-slug: pricing
+slug: getinvolved
 sections:
   - type: DividerSection
     title: Divider
