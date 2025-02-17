@@ -57,7 +57,19 @@
     },
     "secondaryLinks": {
         "title": "STAY IN CONTACT",
-        "links": [],
+        "links": [
+            {
+                "type": "Link",
+                "label": "Instagram",
+                "altText": "Instagram",
+                "url": "/instagram",
+                "showIcon": true,
+                "icon": "instagram",
+                "iconPosition": "left",
+                "style": "secondary",
+                "elementId": ""
+            }
+        ],
         "type": "FooterLinksGroup"
     },
     "socialLinks": [
