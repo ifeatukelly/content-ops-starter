@@ -18,7 +18,7 @@ sections:
       love through outreach and the power of the Gospel."*
     actions:
       - type: Button
-        label: See open positions
+        label: Read More
         url: /
         icon: arrowRight
         iconPosition: right
