@@ -49,7 +49,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Financial Donator
+        title: Donator
         subtitle: ''
         text: >+
           Financial Donator
