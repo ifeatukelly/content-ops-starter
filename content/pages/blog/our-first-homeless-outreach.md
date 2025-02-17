@@ -72,7 +72,7 @@ bottomSections:
         styles:
           self:
             padding:
-              - pt-2
+              - pt-9
               - pb-9
               - pl-9
               - pr-9
