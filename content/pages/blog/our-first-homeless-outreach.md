@@ -1,6 +1,6 @@
 ---
 title: 'An Evening of Hope: Our First Homeless Outreach'
-slug: five-tips-for-starting-a-startup
+slug: our-first-homeless-outreach
 date: '2025-01-25'
 excerpt: >-
   The Living Hope Project officially launched its first homeless outreach,
