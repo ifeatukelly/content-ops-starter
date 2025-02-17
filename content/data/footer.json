@@ -24,7 +24,7 @@
                 "label": "About Us",
                 "altText": "about us page",
                 "url": "/about",
-                "showIcon": false,
+                "showIcon": true,
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
