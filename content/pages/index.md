@@ -83,59 +83,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - type: GenericSection
-    title:
-      text: The Living Hope Project
-      color: text-dark
-      type: TitleBlock
-      styles:
-        self:
-          fontWeight: 700
-    subtitle: Bring Hope | Spread Truth | Serve with Love
-    text: >
-      *"Our mission is to bring the transformative hope of Jesus Christ to those
-      experiencing hardship. We believe that the greatest hope in this world is
-      found in salvation through Christ, and we are committed to sharing His
-      love through outreach and the power of the Gospel."*
-    actions:
-      - label: Get Involved
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
-      - label: Upcoming Events
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
-    media:
-      url: /images/LOGO The Living Hope Project.jpg
-      altText: Unblock your team boost your time to production preview
-      elementId: ''
-      type: ImageBlock
-    badge:
-      label: LHP
-      color: text-primary
-      type: Badge
-    elementId: ''
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
   - type: FeaturedItemsSection
     title:
       text: Our Core Values
