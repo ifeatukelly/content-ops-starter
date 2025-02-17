@@ -11,6 +11,7 @@ topSections:
     subtitle: Most Recent
     posts:
       - content/pages/blog/five-tips-for-starting-a-startup.md
+      - content/pages/blog/our-first-homeless-outreach.md
     showThumbnail: true
     showExcerpt: true
     showDate: true
