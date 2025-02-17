@@ -16,7 +16,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Meet The Team
+      text: Meet The Founders
       color: text-dark
       styles:
         self:
