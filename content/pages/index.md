@@ -44,7 +44,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Our Key Scripture
+        title: ''
         tagline: ''
         subtitle: ''
         text: |
