@@ -1,6 +1,6 @@
 ---
 title: About Us
-slug: careers
+slug: about
 sections:
   - type: DividerSection
     title: Divider
