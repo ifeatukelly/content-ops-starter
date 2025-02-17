@@ -76,7 +76,7 @@ bottomSections:
               - pb-9
               - pl-9
               - pr-9
-            textAlign: center
+            textAlign: left
             borderRadius: large
             flexDirection: row
             justifyContent: center
