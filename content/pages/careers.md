@@ -249,7 +249,7 @@ sections:
       - type: Button
         label: Get Involved
         altText: ''
-        url: /
+        url: /pricing
         showIcon: false
         icon: arrowRight
         iconPosition: right
