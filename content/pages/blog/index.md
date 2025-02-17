@@ -3,31 +3,7 @@ title: Blog
 slug: /blog
 numOfPostsPerPage: 6
 enableSearch: true
-topSections:
-  - title:
-      text: Featured Post
-      color: text-dark
-      type: TitleBlock
-    subtitle: Most Recent
-    posts:
-      - content/pages/blog/five-tips-for-starting-a-startup.md
-      - content/pages/blog/our-first-homeless-outreach.md
-    showThumbnail: true
-    showExcerpt: true
-    showDate: true
-    showAuthor: true
-    variant: big-list
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-28
-          - pb-0
-          - pl-4
-          - pr-4
-        justifyContent: flex-start
-    type: FeaturedPostsSection
-    hoverEffect: move-up
+topSections: []
 styles:
   title:
     textAlign: center
