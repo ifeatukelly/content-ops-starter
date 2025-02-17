@@ -61,8 +61,23 @@ sections:
         title: Sacha Hutson
         tagline: ''
         subtitle: Co-Founder
-        text: |
-          Follow the tutorial to build your first Netlify site.
+        text: >
+          The inspiration for this project came during the Christmas season of
+          2024, when God placed a deep conviction on my heart to help a young
+          man who was homeless. Initially, I hesitated at the thought of giving
+          him £20, but the Holy Spirit gently but firmly convicted me, urging me
+          to act in obedience. I committed to ensuring that, when I next saw
+          him, I would give him that £20. However, God had far more in store
+          than I could have ever imagined. Not only did I have the privilege of
+          giving, but I also had the opportunity to minister to this young man,
+          building a meaningful rapport and offering support in whatever way I
+          could. This experience filled me with indescribable joy, knowing that
+          through my obedience, I was able to serve God by helping someone in
+          need and, most importantly, sharing the hope of Jesus with him. It was
+          a powerful reminder of God's love and provision, and it ignited a
+          passion within me to do more for others. To Him be all the glory for
+          this journey. He is the true source of this mission, and it is only by
+          His grace and guidance that I am able to step into this calling.
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
