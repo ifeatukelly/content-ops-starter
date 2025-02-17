@@ -99,7 +99,7 @@ sections:
       - type: FeaturedItem
         title: Ifeatu Okafor
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: Co-Founder
         text: |
           Follow the tutorial to build your first awesome Netlify site.
         image:
