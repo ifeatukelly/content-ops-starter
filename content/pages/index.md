@@ -49,7 +49,7 @@ sections:
   - type: CarouselSection
     items:
       - type: FeaturedItem
-        title: Social Media Management
+        title: ''
         tagline: ''
         subtitle: '"Let us not love in word or in tongue, but in deed and in truth."'
         text: |
