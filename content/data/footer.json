@@ -7,16 +7,7 @@
     "text": "Bringing Hope\n\nSpreading Truth\n\nServing with Love\n",
     "primaryLinks": {
         "title": "",
-        "links": [
-            {
-                "label": "Documentation",
-                "url": "/",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            }
-        ],
+        "links": [],
         "type": "FooterLinksGroup"
     },
     "secondaryLinks": {
