@@ -2,7 +2,7 @@
 title: Blog
 slug: /blog
 numOfPostsPerPage: 6
-enableSearch: true
+enableSearch: false
 topSections: []
 styles:
   title:
