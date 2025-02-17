@@ -51,10 +51,19 @@ sections:
       - type: FeaturedItem
         title: Financial Donator
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Financial Donator
+
+
+          *   Contribute financially to our ministry
+
+
+          Product Donator
+
+
+          *   Items such as: clean clothes, winter warmers, canned
+          (long-lasting) food
+
         actions: []
         colors: bg-neutral-fg-dark
         styles:
