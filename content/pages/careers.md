@@ -58,7 +58,7 @@ sections:
     subtitle: Featured items section subtitle
     items:
       - type: FeaturedItem
-        title: Feature Item One
+        title: Sacha Hutson
         tagline: ''
         subtitle: This is the item subtitle
         text: |
