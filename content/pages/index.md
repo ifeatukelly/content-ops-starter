@@ -17,21 +17,18 @@ sections:
         title: ''
         subtitle: ''
         text: >+
-          <div style="text-align: center">> \> 
-
-          >
-
-          > *"Our mission is to bring the transformative hope of Jesus Christ to
-          those experiencing hardship, offering not just temporary relief but
-          the eternal promise of salvation. We believe that true hope is found
-          in Christ alone, and through Him, lives can be restored, hearts can be
-          healed, and communities can be renewed. Guided by faith and love, we
-          are committed to sharing the Gospel boldly, reaching those in need
-          through acts of service, prayer, and compassionate outreach. Whether
-          through providing physical support, emotional encouragement, or
-          spiritual nourishment, we seek to reflect the love of Christ in all
-          that we do, reminding the broken and weary that they are seen, valued,
-          and deeply loved by God."*</div>
+          <div style="text-align: center">*Our Mission*> *"Our mission is to
+          bring the transformative hope of Jesus Christ to those experiencing
+          hardship, offering not just temporary relief but the eternal promise
+          of salvation. We believe that true hope is found in Christ alone, and
+          through Him, lives can be restored, hearts can be healed, and
+          communities can be renewed. Guided by faith and love, we are committed
+          to sharing the Gospel boldly, reaching those in need through acts of
+          service, prayer, and compassionate outreach. Whether through providing
+          physical support, emotional encouragement, or spiritual nourishment,
+          we seek to reflect the love of Christ in all that we do, reminding the
+          broken and weary that they are seen, valued, and deeply loved by
+          God."*</div>
 
         actions: []
         colors: bg-light-fg-dark
