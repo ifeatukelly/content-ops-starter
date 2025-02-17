@@ -36,7 +36,7 @@ bottomSections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/LOGO The Living Hope Project.jpg
+          url: /images/IFEATU LHP COPY.jpg
           altText: Featured item
           styles:
             self:
