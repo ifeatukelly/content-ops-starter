@@ -23,7 +23,7 @@
         {
             "label": "Get Involved",
             "altText": "Careers page",
-            "url": "/careers",
+            "url": "/getinvolved",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
