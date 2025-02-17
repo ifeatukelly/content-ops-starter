@@ -79,7 +79,7 @@ bottomSections:
             textAlign: left
             borderRadius: large
             flexDirection: col
-            justifyContent: center
+            justifyContent: flex-start
     variant: dots-nav
     colors: bg-light-fg-dark
     styles:
