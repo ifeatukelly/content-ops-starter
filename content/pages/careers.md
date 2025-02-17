@@ -247,7 +247,7 @@ sections:
             flexDirection: row
     actions:
       - type: Button
-        label: Get started
+        label: Get Involved
         altText: ''
         url: /
         showIcon: false
