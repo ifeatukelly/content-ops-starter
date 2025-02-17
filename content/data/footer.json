@@ -73,7 +73,7 @@
                 "type": "Link",
                 "label": "Send email",
                 "altText": "Play",
-                "url": "/mailto:thelivinghopeproject@outlook.com",
+                "url": "mailto:thelivinghopeproject@outlook.com",
                 "showIcon": true,
                 "icon": "mail",
                 "iconPosition": "left",
