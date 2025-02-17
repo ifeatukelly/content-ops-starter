@@ -16,11 +16,13 @@ sections:
       - type: FeaturedItem
         title: Our Mission
         subtitle: ''
-        text: >
-          "Our mission is to bring the transformative hope of Jesus Christ to
-          those experiencing hardship. We believe that the greatest hope in this
-          world is found in salvation through Christ, and we are committed to
-          sharing His love through outreach and the power of the Gospel."
+        text: >+
+          <div style="text-align: center">"Our mission is to bring the
+          transformative hope of Jesus Christ to those experiencing hardship. We
+          believe that the greatest hope in this world is found in salvation
+          through Christ, and we are committed to sharing His love through
+          outreach and the power of the Gospel."</div>
+
         actions: []
         colors: bg-light-fg-dark
         styles:
