@@ -11,11 +11,16 @@ sections:
         self:
           textAlign: center
     subtitle: Bringing Hope | Spreading Truth | Serving with Love
-    text: >
+    text: >+
       *"Our mission is to bring the transformative hope of Jesus Christ to those
       experiencing hardship. We believe that the greatest hope in this world is
       found in salvation through Christ, and we are committed to sharing His
       love through outreach and the power of the Gospel."*
+
+
+      > *Let us not love in word or in tongue, but in deed and in truth ~ 1 John
+      3:18*
+
     actions:
       - type: Button
         label: Read More
