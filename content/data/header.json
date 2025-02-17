@@ -42,7 +42,7 @@
     "secondaryLinks": [
         {
             "label": "Contact Us",
-            "url": "/",
+            "url": "/mailto:thelivinghopeproject@outlook.com",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",
