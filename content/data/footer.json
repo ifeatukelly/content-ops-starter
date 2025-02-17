@@ -76,7 +76,7 @@
                 "url": "/mailto:thelivinghopeproject@outlook.com",
                 "showIcon": true,
                 "icon": "mail",
-                "iconPosition": "right",
+                "iconPosition": "left",
                 "style": "secondary",
                 "elementId": ""
             }
