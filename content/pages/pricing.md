@@ -50,7 +50,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Donator
-        subtitle: ''
+        subtitle: 'You can either be a:'
         text: >+
           Financial Donator
 
