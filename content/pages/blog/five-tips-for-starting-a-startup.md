@@ -3,9 +3,11 @@ title: 'An Evening of Hope: Our First Homeless Outreach'
 slug: five-tips-for-starting-a-startup
 date: '2025-01-25'
 excerpt: >-
-  Sit ratione eligendi et quis distinctio et maiores accusantium aut accusamus
-  facere sit repellat quidem qui alias nostrum et earum enim. Cum quis sint eos
-  dolor quas ad odit ipsum qui quia eius.
+  The Living Hope Project officially launched its first homeless outreach,
+  marking the beginning of our mission to bring both practical aid and the
+  message of Jesus Christ to those in need. With a heart to serve and a
+  commitment to sharing the Gospel, our team set out to make a tangible
+  difference in the lives of those experiencing homelessness.
 featuredImage:
   url: /images/abstract-feature1.svg
   altText: Thumbnail
