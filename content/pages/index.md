@@ -17,7 +17,7 @@ sections:
         title: ''
         subtitle: ''
         text: >+
-          <div style="text-align: center">*"Our mission is to bring the
+          <div style="text-align: center">> *"Our mission is to bring the
           transformative hope of Jesus Christ to those experiencing hardship,
           offering not just temporary relief but the eternal promise of
           salvation. We believe that true hope is found in Christ alone, and
