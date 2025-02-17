@@ -200,10 +200,10 @@ sections:
       - type: FeaturedItem
         title: Compassion in Action
         subtitle: '"Serving with love, building together"'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          We believe in creating a community where everyone is seen, valued and
+          cared for. Through acts of kindness and fellowship, we foster a
+          community of restoration and belonging.
         image:
           type: ImageBlock
           url: /images/icon2.svg
