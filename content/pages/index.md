@@ -52,10 +52,8 @@ sections:
         title: Social Media Management
         tagline: ''
         subtitle: '"Let us not love in word or in tongue, but in deed and in truth."'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          \~ 1 John 3:18
         image:
           type: ImageBlock
           altText: Featured item
