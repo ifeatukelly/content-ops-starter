@@ -79,7 +79,7 @@ bottomSections:
     colors: bg-light-fg-dark
     styles:
       self:
-        justifyContent: flex-start
+        justifyContent: center
       subtitle:
         textAlign: center
 isFeatured: false
