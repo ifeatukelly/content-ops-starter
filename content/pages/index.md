@@ -38,7 +38,7 @@ sections:
             justifyContent: center
     actions:
       - type: Button
-        label: Upcoming Events
+        label: Read More
         url: /pricing
         icon: arrowRight
         iconPosition: right
