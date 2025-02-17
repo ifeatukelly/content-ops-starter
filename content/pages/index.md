@@ -12,7 +12,11 @@ sections:
           textAlign: center
     subtitle: Bringing Hope | Spreading Truth | Serving with Love
     text: >+
-      **
+      \*\*
+
+
+
+
 
 
       *"Our mission is to bring the transformative hope of Jesus Christ to those
