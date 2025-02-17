@@ -52,17 +52,11 @@ sections:
         title: Donator
         subtitle: 'You can either be a:'
         text: >+
-          Financial Donator
+          1.  Financial Donator: *Contribute financially*
 
 
-          *   Contribute financially to our ministry
-
-
-          Product Donator
-
-
-          *   Items such as: clean clothes, winter warmers, canned
-          (long-lasting) food
+          2.  Product Donator: *Contribute items such as clean clothes, winter
+          warmers, canned (long-lasting) food*
 
         actions: []
         colors: bg-neutral-fg-dark
