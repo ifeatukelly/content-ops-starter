@@ -38,7 +38,7 @@ sections:
             justifyContent: center
     actions:
       - type: Button
-        label: Apply now
+        label: Upcoming Events
         url: /
         icon: arrowRight
         iconPosition: right
