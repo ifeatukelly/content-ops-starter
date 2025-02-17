@@ -85,7 +85,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/abstract-feature2.svg
+          url: /images/IFEATU LHP COPY.jpg
           altText: Placeholder image
           styles:
             self:
