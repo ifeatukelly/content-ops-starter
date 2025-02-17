@@ -55,7 +55,7 @@ bottomSections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Business Consulting
+        title: ''
         tagline: Feature 2
         subtitle: Be in good company
         text: >-
