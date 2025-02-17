@@ -44,7 +44,7 @@
             {
                 "type": "Link",
                 "label": "Blog",
-                "altText": "",
+                "altText": "blog page",
                 "url": "/blog",
                 "showIcon": false,
                 "icon": "arrowRight",
