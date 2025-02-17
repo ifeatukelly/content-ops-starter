@@ -75,7 +75,7 @@ sections:
       - type: Button
         label: Register Interest
         url: >-
-          /https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAANAAoZ6sppURURWTU9TUzhWSlE0UENNTFJOWVNTOVhEQy4u
+          https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAANAAoZ6sppURURWTU9TUzhWSlE0UENNTFJOWVNTOVhEQy4u
         icon: arrowRight
         iconPosition: right
         style: primary
