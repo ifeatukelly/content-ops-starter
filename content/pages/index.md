@@ -14,7 +14,7 @@ sections:
     subtitle: Bringing Hope | Spreading Truth | Serving with Love
     items:
       - type: FeaturedItem
-        title: Our Mission
+        title: ''
         subtitle: ''
         text: >+
           <div style="text-align: center">"Our mission is to bring the
