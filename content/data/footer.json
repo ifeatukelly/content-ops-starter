@@ -47,7 +47,7 @@
                 "altText": "blog page",
                 "url": "/blog",
                 "showIcon": true,
-                "icon": "arrowRight",
+                "icon": "chevronRight",
                 "iconPosition": "right",
                 "style": "secondary",
                 "elementId": ""
