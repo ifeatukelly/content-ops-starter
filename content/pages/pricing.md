@@ -1,5 +1,5 @@
 ---
-title: Pricing
+title: Get Involved
 slug: pricing
 sections:
   - type: DividerSection
