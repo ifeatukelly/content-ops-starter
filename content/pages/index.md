@@ -75,6 +75,27 @@ sections:
     items:
       - type: FeaturedItem
         title: ''
+        tagline: ''
+        subtitle: ''
+        text: >+
+          <div style="text-align: center">## *"Let us not love in word or in
+          tongue, but in deed and in truth" \~ 1 John 3:18*</div>
+
+        actions: []
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+      - type: FeaturedItem
+        title: ''
         subtitle: ''
         text: >+
           <div style="text-align: center">*"Our mission is to bring the
@@ -101,27 +122,6 @@ sections:
               - pr-8
             textAlign: left
             borderRadius: x-large
-            flexDirection: row
-            justifyContent: center
-      - type: FeaturedItem
-        title: ''
-        tagline: ''
-        subtitle: ''
-        text: >+
-          <div style="text-align: center">## *"Let us not love in word or in
-          tongue, but in deed and in truth" \~ 1 John 3:18*</div>
-
-        actions: []
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
             flexDirection: row
             justifyContent: center
     actions:
