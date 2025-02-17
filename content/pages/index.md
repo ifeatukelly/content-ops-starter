@@ -39,7 +39,7 @@ sections:
     actions:
       - type: Button
         label: Upcoming Events
-        url: /
+        url: /pricing
         icon: arrowRight
         iconPosition: right
         style: primary
