@@ -16,10 +16,11 @@ sections:
       - type: FeaturedItem
         title: Our Mission
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          "Our mission is to bring the transformative hope of Jesus Christ to
+          those experiencing hardship. We believe that the greatest hope in this
+          world is found in salvation through Christ, and we are committed to
+          sharing His love through outreach and the power of the Gospel."
         actions: []
         colors: bg-neutral-fg-dark
         styles:
