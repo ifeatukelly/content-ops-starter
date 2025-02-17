@@ -24,7 +24,7 @@ sections:
     actions:
       - type: Button
         label: Read More
-        url: /
+        url: /about
         icon: arrowRight
         iconPosition: right
         style: primary
