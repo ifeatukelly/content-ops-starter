@@ -60,7 +60,7 @@ sections:
       - type: FeaturedItem
         title: Sacha Hutson
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: Co-Founder
         text: |
           Follow the tutorial to build your first Netlify site.
         image:
