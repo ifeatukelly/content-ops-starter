@@ -27,9 +27,13 @@ sections:
         title: Volunteer
         subtitle: 'What you will be doing:'
         text: |+
-          *   Active volunteer on our various outreaches
+          *   Attend and assist on our various outreaches
 
           *   Minister to, and encourage, those who we encounter
+
+          *   Make them feel welcome
+
+          *   Be bubbly
 
         actions: []
         colors: bg-neutral-fg-dark
