@@ -1,5 +1,5 @@
 ---
-title: 5 Tips for Starting a Startup
+title: 'Our First Homeless Outreach '
 slug: five-tips-for-starting-a-startup
 date: '2025-01-25'
 excerpt: >-
