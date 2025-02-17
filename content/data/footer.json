@@ -36,7 +36,7 @@
                 "altText": "get involved page",
                 "url": "/getinvolved",
                 "showIcon": true,
-                "icon": "arrowRight",
+                "icon": "chevronRight",
                 "iconPosition": "right",
                 "style": "secondary",
                 "elementId": ""
