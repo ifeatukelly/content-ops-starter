@@ -57,17 +57,7 @@
     },
     "secondaryLinks": {
         "title": "STAY IN CONTACT",
-        "links": [
-            {
-                "label": "Get Involved",
-                "url": "/getinvolved",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link",
-                "altText": "get involved page"
-            }
-        ],
+        "links": [],
         "type": "FooterLinksGroup"
     },
     "socialLinks": [
