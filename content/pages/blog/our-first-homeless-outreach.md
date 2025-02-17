@@ -55,7 +55,7 @@ bottomSections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Feature 2
+        title: ''
         tagline: ''
         subtitle: ''
         text: ''
