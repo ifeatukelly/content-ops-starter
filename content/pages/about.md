@@ -214,7 +214,7 @@ sections:
       - type: Button
         label: Get Involved
         altText: ''
-        url: /pricing
+        url: /getinvolved
         showIcon: false
         icon: arrowRight
         iconPosition: right
