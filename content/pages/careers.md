@@ -66,8 +66,8 @@ sections:
         title: Ifeatu Okafor
         tagline: ''
         subtitle: Co-Founder
-        text: >+
-          In 2018, I travelled to Nigeria with AIPA Irelamd, stepping into
+        text: >
+          In 2018, I travelled to Nigeria with AIPA Ireland, stepping into
           villages where access to health care was scarce. As a 14 year old, I
           remember seeing the desperation in people's eyes as they pushed
           forward, forming long, restless queues to receive medication.  There
@@ -82,7 +82,6 @@ sections:
           and I am simply a vessel. My prayer is that through this ministry,
           those who are lost, broken, or weary will find the same hope and joy
           that changed my life.
-
         image:
           type: ImageBlock
           url: /images/IFEATU LHP COPY.jpg
