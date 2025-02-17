@@ -70,7 +70,7 @@ sections:
       styles:
         self:
           textAlign: center
-          fontWeight: 400
+          fontWeight: 500
     subtitle: Bringing Hope | Spreading Truth | Serving with Love
     items:
       - type: FeaturedItem
