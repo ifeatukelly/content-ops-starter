@@ -56,7 +56,7 @@ bottomSections:
             justifyContent: center
       - type: FeaturedItem
         title: ''
-        tagline: ''
+        tagline: Feature 2
         subtitle: ''
         text: ''
         image:
