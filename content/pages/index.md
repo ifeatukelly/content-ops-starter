@@ -47,10 +47,12 @@ sections:
         title: Our Key Scripture
         tagline: ''
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          "My little children, 
+
+          Let us not love in word or in tongue, but in deed and in truth"
+
+          \~ 1 John 3:18
         actions: []
         colors: bg-dark-fg-light
         styles:
