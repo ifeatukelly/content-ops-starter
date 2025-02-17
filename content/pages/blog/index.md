@@ -11,6 +11,7 @@ topSections:
     subtitle: Most Recent
     posts:
       - content/pages/blog/top-ten-lessons-we-learned.md
+      - content/pages/blog/five-tips-for-starting-a-startup.md
     showThumbnail: true
     showExcerpt: true
     showDate: true
