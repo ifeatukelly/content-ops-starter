@@ -12,13 +12,6 @@ sections:
           textAlign: center
     subtitle: Bringing Hope | Spreading Truth | Serving with Love
     text: >+
-      \*\*
-
-
-
-
-
-
       *"Our mission is to bring the transformative hope of Jesus Christ to those
       experiencing hardship. We believe that the greatest hope in this world is
       found in salvation through Christ, and we are committed to sharing His
