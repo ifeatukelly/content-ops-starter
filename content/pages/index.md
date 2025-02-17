@@ -47,12 +47,11 @@ sections:
         title: ''
         tagline: ''
         subtitle: ''
-        text: |
-          "My little children, 
+        text: >+
+          <div style="text-align: center">## "My little children,## Let us not
+          love in word or in tongue, but in deed and in truth"## \~ 1 John
+          3:18</div>
 
-          Let us not love in word or in tongue, but in deed and in truth"
-
-          \~ 1 John 3:18
         actions: []
         colors: bg-dark-fg-light
         styles:
