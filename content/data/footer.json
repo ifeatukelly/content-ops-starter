@@ -12,7 +12,7 @@
                 "type": "Link",
                 "label": "Home",
                 "altText": "home page",
-                "url": "/home",
+                "url": "/",
                 "showIcon": true,
                 "icon": "chevronRight",
                 "iconPosition": "right",
