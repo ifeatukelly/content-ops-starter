@@ -80,7 +80,7 @@ bottomSections:
             borderRadius: large
             flexDirection: row
             justifyContent: center
-    variant: next-prev-nav
+    variant: next-prev-nav-multiple
     colors: bg-light-fg-dark
     styles:
       self:
