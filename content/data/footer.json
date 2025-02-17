@@ -9,15 +9,6 @@
         "title": "",
         "links": [
             {
-                "label": "About Us",
-                "altText": "Features page",
-                "url": "/about",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
                 "label": "Documentation",
                 "url": "/",
                 "icon": "arrowRight",
