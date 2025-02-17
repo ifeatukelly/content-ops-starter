@@ -33,7 +33,7 @@
             {
                 "type": "Link",
                 "label": "Get Involved",
-                "altText": "",
+                "altText": "get involved page",
                 "url": "/getinvolved",
                 "showIcon": false,
                 "icon": "arrowRight",
