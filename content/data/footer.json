@@ -59,15 +59,6 @@
         "title": "STAY IN CONTACT",
         "links": [
             {
-                "label": "About Us",
-                "altText": "about us page",
-                "url": "/about",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
                 "label": "Get Involved",
                 "url": "/getinvolved",
                 "icon": "arrowRight",
